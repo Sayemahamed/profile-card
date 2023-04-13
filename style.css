@@ -19,12 +19,12 @@ main {
 
 @media (min-width: 1181px) {
   body main {
-    background-position: left -300px top -200px, right -300px bottom -200px;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
   }
 }
 @media (max-width: 1180px) and (min-width: 0) {
   body main {
-    background-position: left -500px top -500px, right -500px bottom -500px;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
   }
 }
 .card {
